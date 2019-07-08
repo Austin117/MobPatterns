@@ -1,5 +1,3 @@
-# Also Known As
-
 # Context
 
 A small, experienced mob that is good at working well together.
@@ -28,3 +26,7 @@ Pay attention to signs that this approach has stopped working, and switch back t
 This is risky, and usually an anti-pattern called "Not Mobbing".
 
 # Collaborators
+
+# AKA and Cross References
+
+Very similar to the "Plowing Through" pattern combined with the "Think out loud" pattern from https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/
