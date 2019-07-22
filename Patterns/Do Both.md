@@ -18,4 +18,6 @@ Don't let the Hippo (Highest Paid Person's Opinion) or loudest person win.
 
 # Consequences
 
+Often prevents the "fight club" anit-pattern from https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/
+
 # Collaborators
